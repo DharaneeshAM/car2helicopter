@@ -7,8 +7,7 @@
     <td valign="top"><img src="./hellicopter%20final.png"/></td>
   </tr>
 </table>
-
-[![Hostal Room](./ezgif.com-optimize.gif)](https://travis-ci.org/joemccann/dillinger)
+<div style="text-align:center"><img src="./ezgif.com-optimize.gif" /></div>
 
 [![N|Solid](https://download.blender.org/branding/blender_logo.png)](https://nodesource.com/products/nsolid)
 
