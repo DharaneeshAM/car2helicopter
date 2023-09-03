@@ -8,9 +8,7 @@
   </tr>
 </table>
 
-<video width="100%" height="240" controls>
-  <source src="./Untitled.mp4" type="video/mp4">
-</video>
+[![Hostal Room](./ezgif.com-optimize.gif)](https://travis-ci.org/joemccann/dillinger)
 
 [![N|Solid](https://download.blender.org/branding/blender_logo.png)](https://nodesource.com/products/nsolid)
 
