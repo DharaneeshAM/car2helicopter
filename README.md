@@ -8,9 +8,9 @@
   </tr>
 </table>
 
-<!-- <video width="100%" height="240" controls>
+<video width="100%" height="240" controls>
   <source src="./0031.mp4" type="video/mp4">
-</video> -->
+</video>
 
 [![N|Solid](https://download.blender.org/branding/blender_logo.png)](https://nodesource.com/products/nsolid)
 
