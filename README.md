@@ -7,7 +7,8 @@
     <td valign="top"><img src="./hellicopter%20final.png"/></td>
   </tr>
 </table>
-<div style="text-align:center"><img src="./ezgif.com-optimize.gif" /></div>
+
+<div style="text-align:center" width=100%><img src="./ezgif.com-optimize.gif" /></div>
 
 [![N|Solid](https://download.blender.org/branding/blender_logo.png)](https://nodesource.com/products/nsolid)
 
